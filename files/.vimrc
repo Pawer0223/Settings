@@ -14,5 +14,5 @@ set showmatch
 "Mouse scroll
 set mouse=a
 
-"set paset..
-set paset
+"set paste..
+set paste
