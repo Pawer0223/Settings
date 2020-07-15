@@ -13,3 +13,6 @@ set showmatch
 
 "Mouse scroll
 set mouse=a
+
+"set paset..
+set paset
