@@ -3,6 +3,9 @@
 "number line show
 set nu
 
+"paste option
+set paste
+
 "Highlighta
 if has("syntax")
         syntax on
