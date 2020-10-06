@@ -1,4 +1,4 @@
 export MAIL="taekang@student.42seoul.kr"
 alias norm="norminette -R CheckForbiddenSourceHeader"
-alias my="cd ~/my_git/Lapiscine"
+alias copyGit="cp * ~/mygit/42cursus ; cd ~/mygit/42cursus ; git add * ; git commit -m 'source commit' ; git push ;"
 alias gccf="gcc -Wall -Wextra -Werror *.c"
