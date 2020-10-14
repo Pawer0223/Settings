@@ -3,8 +3,8 @@
 "number line show
 set nu
 
-"paste option
-set paste
+"paste option but paste is indent break..
+"set paste
 
 "Highlighta
 if has("syntax")
